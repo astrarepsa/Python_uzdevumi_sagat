@@ -1,4 +1,4 @@
 """ 
-Iegūt ziņas, izmantojot RSS plūsmu no google.lv.
+Iegūt ziņas, izmantojot RSS plūsmu no google.lv..
 
 """
